@@ -4,8 +4,11 @@ This repository will be used in the technical sessions for undergraduate student
 ## Session preparation
 ### Downloads
 1. Create an account on [Github](https://github.com/) if you do not have one.
-2. Download and install [Git](https://git-scm.com/).
+2. Download and install [Git](https://git-scm.com/)
+           #### Configure git
+           
 3. Download and install [Python](https://www.python.org/downloads/)
+
 
 ### Virtual environment.
 To be able to run the notebooks we will use during the sessions, do the following:
