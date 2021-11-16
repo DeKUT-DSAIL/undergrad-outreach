@@ -21,13 +21,14 @@ To be able to run the notebooks we will use during the sessions, do the followin
 
       On Linux 
         `python3 -m venv iot-env`
-      On Windows
+     or On Windows
         `python -m venv iot-env`
 1. Activate it
 On Linux
 `source iot-env/bin/activate`
-On Windows
+or On Windows
 `iot-env\Scripts\activate.bat`
-1. Update pip `pip install --upgrade pip`
-1. Install the requirements
-`pip install -r requirements.txt`
+1. Update pip 
+      `pip install --upgrade pip`
+3. Install the requirements
+      `pip install -r requirements.txt`
