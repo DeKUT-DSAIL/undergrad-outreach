@@ -12,7 +12,6 @@ To be able to run the notebooks we will use during the sessions, do the followin
 
 1. Open your command prompt.
 2. Clone this repository and cd into it
-
         `git clone https://github.com/DeKUT-DSAIL/undergrad-outreach.git`
       
         `cd undergrad-outreach`
@@ -28,5 +27,4 @@ or On Windows
 1. Update pip
         `pip install --upgrade pip`
 3. Install the requirements
-
         `pip install -r requirements.txt`
