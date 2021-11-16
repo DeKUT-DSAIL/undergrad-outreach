@@ -5,7 +5,7 @@ This repository will be used in the technical sessions for undergraduate student
 ### Downloads
 1. Create an account on [Github](https://github.com/) if you do not have one.
 2. Download and install [Git](https://git-scm.com/)     
-3. Download and install [Python](https://phoenixnap.com/kb/how-to-install-python-3-windows)
+3. Download and install [Python](https://www.python.org/downloads/). Follow these [instructions](https://phoenixnap.com/kb/how-to-install-python-3-windows)
 
 ### Configure git
 1. Open your Git Bash terminal.
