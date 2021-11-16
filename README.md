@@ -15,12 +15,14 @@ This repository will be used in the technical sessions for undergraduate student
 3. Add your email address. Use the same address you used while setting up your Github account.
 
            git config --global user.email "your_email_address@example.com"
-           
+4. To check the configuration, run:
+
+           git config --global --list
 ### Virtual environment.
 To be able to run the notebooks we will use during the sessions, do the following:
 
 1. Open your command prompt.
-2. Clone this repository and cd into it
+2. Clone this repository and cd into it. Run the following one line at a time:
 
     `git clone https://github.com/DeKUT-DSAIL/undergrad-outreach.git`
         
