@@ -13,9 +13,9 @@ To be able to run the notebooks we will use during the sessions, do the followin
 1. Open your command prompt.
 2. Clone this repository and cd into it
 
-            `git clone https://github.com/DeKUT-DSAIL/undergrad-outreach.git`
+        `git clone https://github.com/DeKUT-DSAIL/undergrad-outreach.git`
       
-            `cd undergrad-outreach`
+        `cd undergrad-outreach`
       
 3. Create a [virtual environment](https://docs.python.org/3/tutorial/venv.html)
 
@@ -25,9 +25,8 @@ On Linux
 `source iot-env/bin/activate`
 or On Windows
 `iot-env\Scripts\activate.bat`
-1. Update pip 
-
-            `pip install --upgrade pip`
+1. Update pip
+        `pip install --upgrade pip`
 3. Install the requirements
 
-            `pip install -r requirements.txt`
+        `pip install -r requirements.txt`
