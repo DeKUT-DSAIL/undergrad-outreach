@@ -10,8 +10,10 @@ This repository will be used in the technical sessions for undergraduate student
 #### Configure git
 1. Open your Git Bash terminal.
 2. Add your username using the following command:
+
            git config --global user.name "your_username"
 3. Add your email address. Use the same address you used while setting up your Github account.
+
            git config --global user.email "your_email_address@example.com"
            
 ### Virtual environment.
