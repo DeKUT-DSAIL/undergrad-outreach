@@ -1,0 +1,5 @@
+#ignore the virtual environment
+outreach-env
+
+#ignore notebook checkpoints
+.ipynb_checkpoints
