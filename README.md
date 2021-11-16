@@ -7,7 +7,7 @@ This repository will be used in the technical sessions for undergraduate student
 2. Download and install [Git](https://git-scm.com/)     
 3. Download and install [Python](https://www.python.org/downloads/)
 
-#### Configure git
+### Configure git
 1. Open your Git Bash terminal.
 2. Add your username using the following command:
 
